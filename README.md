@@ -1,5 +1,6 @@
 # MboaNkap
 L'équipe qui nous rassemble
+
 Application de gestion de tontines pour le Cameroun 
 
 # Fonctionnalités
@@ -21,4 +22,4 @@ GPL-3.0
 ## Contact 
 - Email: mboankapofficiel@gmail.com
 
-  &copy; MboaNkap- Tous droits réservés
+  &copy; 2026 MboaNkap - Tous droits réservés
