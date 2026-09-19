@@ -14,7 +14,7 @@ Application de gestion de tontines pour le Cameroun
 - En développement - MVP en cours
 
 ## Équipe
-- **Arthur** - Fondateur & Développeur principal
+- **Arthur PONE** - Fondateur & Développeur principal
 
 ## Licence
 GPL-3.0
